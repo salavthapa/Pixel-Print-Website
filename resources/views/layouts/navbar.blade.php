@@ -45,11 +45,10 @@
         </ul>
 
         <!-- Request Quote Button -->
-        <div class="hidden md:block">
+        <div class="md:block">
             <a href="#quoteForm"
                 class="bg-pink-500 hover:bg-pink-600 text-white font-semibold px-4 py-3 rounded-sm font-heading text-sm hidde">
                 Request a Quote
-
             </a>
         </div>
 
