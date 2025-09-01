@@ -15,16 +15,16 @@
 <body class=" scroll-smooth" x-data="{ showTop: false }" @scroll.window="showTop = (window.pageYOffset > 200)">
 
     <div>
-        @include('layouts.Topnav')
+        @include('layouts.frontendTopnav')
     </div>
     <div class=" sticky top-0 z-[999]">
-        @include('layouts.navbar')
+        @include('layouts.frontendNavbar')
     </div>
     <div>
         @yield('body')
     </div>
     <div>
-        @include('layouts.footer')
+        @include('layouts.frontendFooter')
     </div>
 
     <script src="https://kit.fontawesome.com/ee1a5338f6.js" crossorigin="anonymous"></script>

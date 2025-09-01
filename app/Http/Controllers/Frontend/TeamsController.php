@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Frontend;
 
 use Illuminate\Http\Request;
 
 class TeamsController extends Controller
 {
     public function teams(){
-        return view ('teams');
+        return view('frontend.teams');
     }
 }
