@@ -3,11 +3,11 @@
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center px-6 py-2 md:space-y-0">
         <!-- Left: Email & Phone -->
         <div class="flex flex-col md:flex-row md:space-x-4 space-y-1 md:space-y-0">
-            <span class="flex items-center justify-center md:justify-start">
+            <span class="flex items-center justify-center md:justify-start font-heading font-medium">
                 <i class="fas fa-envelope mr-2 text-yellow-300 text-lg"></i>
                 pixelprintnepal@gmail.com
             </span>
-            <span class="flex items-center justify-center md:justify-start">
+            <span class="flex items-center justify-center md:justify-start font-heading font-medium">
                 <i class="fa-solid fa-phone mr-2 text-yellow-500 text-lg"></i>
                 01-5914668 | 9801433001
             </span>
