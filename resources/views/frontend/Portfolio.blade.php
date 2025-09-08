@@ -4,7 +4,7 @@
 <section class="relative overflow-hidden bg-[#F0EAF4]">
     <!-- background images (decorations) -->
     <img src="{{ asset('images/circle.svg') }}" alt=""
-        class=" pointer-events-none absolute -top-8 right-78 hidden sm:block w-[450px] h-auto">
+        class=" pointer-events-none absolute -top-8 right-80 hidden sm:block w-[450px] h-auto">
 
     <img src="{{ asset('images/circle3.svg') }}" alt=""
         class=" pointer-events-none absolute -bottom-0 left-40 hidden sm:block w-[600px] h-auto">
